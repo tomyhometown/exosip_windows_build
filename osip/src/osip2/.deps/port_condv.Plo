@@ -1,0 +1,73 @@
+port_condv.lo: port_condv.c ../../include/osip2/internal.h \
+ c:\mingw\include\stdio.h c:\mingw\include\_mingw.h \
+ c:\mingw\include\msvcrtver.h c:\mingw\include\w32api.h \
+ c:\mingw\include\sdkddkver.h \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\stddef.h \
+ c:\mingw\include\sys/types.h \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\stdarg.h ../../osip-config.h \
+ c:\mingw\include\string.h c:\mingw\include\strings.h \
+ c:\mingw\include\wchar.h c:\mingw\include\stdlib.h \
+ c:\mingw\include\sys\types.h c:\mingw\include\time.h \
+ c:\mingw\include\sys\time.h c:\mingw\include\pthread.h \
+ c:\mingw\include\signal.h c:\mingw\include\limits.h \
+ c:\mingw\include\errno.h c:\mingw\include\sched.h \
+ c:\mingw\include\semaphore.h ../../include/osipparser2/osip_port.h \
+ ../../include/osipparser2/osip_const.h \
+ ../../include/osipparser2/osip_list.h ../../include/osip2/osip_mt.h \
+ ../../include/osip2/osip_condv.h
+
+../../include/osip2/internal.h:
+
+c:\mingw\include\stdio.h:
+
+c:\mingw\include\_mingw.h:
+
+c:\mingw\include\msvcrtver.h:
+
+c:\mingw\include\w32api.h:
+
+c:\mingw\include\sdkddkver.h:
+
+c:\mingw\lib\gcc\mingw32\6.3.0\include\stddef.h:
+
+c:\mingw\include\sys/types.h:
+
+c:\mingw\lib\gcc\mingw32\6.3.0\include\stdarg.h:
+
+../../osip-config.h:
+
+c:\mingw\include\string.h:
+
+c:\mingw\include\strings.h:
+
+c:\mingw\include\wchar.h:
+
+c:\mingw\include\stdlib.h:
+
+c:\mingw\include\sys\types.h:
+
+c:\mingw\include\time.h:
+
+c:\mingw\include\sys\time.h:
+
+c:\mingw\include\pthread.h:
+
+c:\mingw\include\signal.h:
+
+c:\mingw\include\limits.h:
+
+c:\mingw\include\errno.h:
+
+c:\mingw\include\sched.h:
+
+c:\mingw\include\semaphore.h:
+
+../../include/osipparser2/osip_port.h:
+
+../../include/osipparser2/osip_const.h:
+
+../../include/osipparser2/osip_list.h:
+
+../../include/osip2/osip_mt.h:
+
+../../include/osip2/osip_condv.h:

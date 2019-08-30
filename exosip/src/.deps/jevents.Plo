@@ -1,0 +1,338 @@
+jevents.lo: jevents.c eXosip2.h c:\mingw\include\stdio.h \
+ c:\mingw\include\_mingw.h c:\mingw\include\msvcrtver.h \
+ c:\mingw\include\w32api.h c:\mingw\include\sdkddkver.h \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\stddef.h \
+ c:\mingw\include\sys/types.h \
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\stdarg.h ../exosip-config.h \
+ c:\mingw\include\string.h c:\mingw\include\strings.h \
+ c:\mingw\include\wchar.h c:\mingw\include\stdlib.h \
+ c:\mingw\include\limits.h c:\mingw\include\sys\types.h \
+ c:\mingw\include\time.h c:\mingw\include\sys\time.h \
+ c:\mingw\include\winsock2.h c:\mingw\include\winsock.h \
+ c:\mingw\include\windows.h c:\mingw\include\windef.h \
+ c:\mingw\include\winnt.h c:\mingw\include\winerror.h \
+ c:\mingw\include\basetsd.h c:\mingw\include\pshpack4.h \
+ c:\mingw\include\poppack.h c:\mingw\include\wincon.h \
+ c:\mingw\include\winbase.h c:\mingw\include\wingdi.h \
+ c:\mingw\include\winuser.h c:\mingw\include\dbt.h \
+ c:\mingw\include\winnls.h c:\mingw\include\winver.h \
+ c:\mingw\include\winnetwk.h c:\mingw\include\winreg.h \
+ c:\mingw\include\winsvc.h c:\mingw\include\cderr.h \
+ c:\mingw\include\dde.h c:\mingw\include\ddeml.h c:\mingw\include\dlgs.h \
+ c:\mingw\include\imm.h c:\mingw\include\lzexpand.h \
+ c:\mingw\include\mmsystem.h c:\mingw\include\nb30.h \
+ c:\mingw\include\rpc.h c:\mingw\include\rpcdce.h \
+ c:\mingw\include\basetyps.h c:\mingw\include\rpcdcep.h \
+ c:\mingw\include\rpcnsi.h c:\mingw\include\rpcnterr.h \
+ c:\mingw\include\shellapi.h c:\mingw\include\pshpack2.h \
+ c:\mingw\include\winperf.h c:\mingw\include\commdlg.h \
+ c:\mingw\include\unknwn.h c:\mingw\include\objfwd.h \
+ c:\mingw\include\wtypes.h c:\mingw\include\rpcndr.h \
+ c:\mingw\include\rpcnsip.h c:\mingw\include\prsht.h \
+ c:\mingw\include\winspool.h c:\mingw\include\_winsock.h \
+ c:\mingw\include\ole2.h c:\mingw\include\objbase.h \
+ c:\mingw\include\objidl.h c:\mingw\include\cguid.h \
+ c:\mingw\include\olectlid.h c:\mingw\include\oleauto.h \
+ c:\mingw\include\oaidl.h c:\mingw\include\oleidl.h \
+ c:\mingw\include\sys\bsdtypes.h c:\mingw\include\nspapi.h \
+ c:\mingw\include\wtypes.h c:\mingw\include\ws2tcpip.h \
+ C:/msys/1.0/local/include/osip2/osip.h \
+ C:/msys/1.0/local/include/osipparser2/osip_const.h \
+ C:/msys/1.0/local/include/osip2/osip_time.h \
+ C:/msys/1.0/local/include/osipparser2/osip_parser.h \
+ C:/msys/1.0/local/include/osipparser2/osip_message.h \
+ C:/msys/1.0/local/include/osipparser2/osip_headers.h \
+ C:/msys/1.0/local/include/osipparser2/osip_port.h \
+ C:/msys/1.0/local/include/osipparser2/osip_list.h \
+ C:/msys/1.0/local/include/osipparser2/osip_uri.h \
+ C:/msys/1.0/local/include/osipparser2/headers/osip_header.h \
+ C:/msys/1.0/local/include/osipparser2/headers/osip_accept.h \
+ C:/msys/1.0/local/include/osipparser2/headers/osip_content_type.h \
+ C:/msys/1.0/local/include/osipparser2/headers/osip_accept_encoding.h \
+ C:/msys/1.0/local/include/osipparser2/headers/osip_accept_language.h \
+ C:/msys/1.0/local/include/osipparser2/headers/osip_alert_info.h \
+ C:/msys/1.0/local/include/osipparser2/headers/osip_call_info.h \
+ C:/msys/1.0/local/include/osipparser2/headers/osip_allow.h \
+ C:/msys/1.0/local/include/osipparser2/headers/osip_content_length.h \
+ C:/msys/1.0/local/include/osipparser2/headers/osip_authentication_info.h \
+ C:/msys/1.0/local/include/osipparser2/headers/osip_authorization.h \
+ C:/msys/1.0/local/include/osipparser2/headers/osip_call_id.h \
+ C:/msys/1.0/local/include/osipparser2/headers/osip_contact.h \
+ C:/msys/1.0/local/include/osipparser2/headers/osip_from.h \
+ C:/msys/1.0/local/include/osipparser2/headers/osip_content_disposition.h \
+ C:/msys/1.0/local/include/osipparser2/headers/osip_content_encoding.h \
+ C:/msys/1.0/local/include/osipparser2/headers/osip_cseq.h \
+ C:/msys/1.0/local/include/osipparser2/headers/osip_error_info.h \
+ C:/msys/1.0/local/include/osipparser2/headers/osip_mime_version.h \
+ C:/msys/1.0/local/include/osipparser2/headers/osip_proxy_authenticate.h \
+ C:/msys/1.0/local/include/osipparser2/headers/osip_www_authenticate.h \
+ C:/msys/1.0/local/include/osipparser2/headers/osip_proxy_authentication_info.h \
+ C:/msys/1.0/local/include/osipparser2/headers/osip_proxy_authorization.h \
+ C:/msys/1.0/local/include/osipparser2/headers/osip_record_route.h \
+ C:/msys/1.0/local/include/osipparser2/headers/osip_route.h \
+ C:/msys/1.0/local/include/osipparser2/headers/osip_to.h \
+ C:/msys/1.0/local/include/osipparser2/headers/osip_via.h \
+ C:/msys/1.0/local/include/osipparser2/osip_body.h \
+ C:/msys/1.0/local/include/osip2/osip_fifo.h \
+ C:/msys/1.0/local/include/osip2/osip_mt.h \
+ C:/msys/1.0/local/include/osip2/osip_dialog.h \
+ ../include/eXosip2/eXosip.h ../include/eXosip2/eX_setup.h \
+ ../include/eXosip2/eX_register.h ../include/eXosip2/eX_call.h \
+ C:/msys/1.0/local/include/osipparser2/sdp_message.h \
+ ../include/eXosip2/eX_options.h ../include/eXosip2/eX_subscribe.h \
+ ../include/eXosip2/eX_message.h ../include/eXosip2/eX_publish.h \
+ eXtransport.h jpipe.h C:/msys/1.0/local/include/osip2/osip_condv.h
+
+eXosip2.h:
+
+c:\mingw\include\stdio.h:
+
+c:\mingw\include\_mingw.h:
+
+c:\mingw\include\msvcrtver.h:
+
+c:\mingw\include\w32api.h:
+
+c:\mingw\include\sdkddkver.h:
+
+c:\mingw\lib\gcc\mingw32\6.3.0\include\stddef.h:
+
+c:\mingw\include\sys/types.h:
+
+c:\mingw\lib\gcc\mingw32\6.3.0\include\stdarg.h:
+
+../exosip-config.h:
+
+c:\mingw\include\string.h:
+
+c:\mingw\include\strings.h:
+
+c:\mingw\include\wchar.h:
+
+c:\mingw\include\stdlib.h:
+
+c:\mingw\include\limits.h:
+
+c:\mingw\include\sys\types.h:
+
+c:\mingw\include\time.h:
+
+c:\mingw\include\sys\time.h:
+
+c:\mingw\include\winsock2.h:
+
+c:\mingw\include\winsock.h:
+
+c:\mingw\include\windows.h:
+
+c:\mingw\include\windef.h:
+
+c:\mingw\include\winnt.h:
+
+c:\mingw\include\winerror.h:
+
+c:\mingw\include\basetsd.h:
+
+c:\mingw\include\pshpack4.h:
+
+c:\mingw\include\poppack.h:
+
+c:\mingw\include\wincon.h:
+
+c:\mingw\include\winbase.h:
+
+c:\mingw\include\wingdi.h:
+
+c:\mingw\include\winuser.h:
+
+c:\mingw\include\dbt.h:
+
+c:\mingw\include\winnls.h:
+
+c:\mingw\include\winver.h:
+
+c:\mingw\include\winnetwk.h:
+
+c:\mingw\include\winreg.h:
+
+c:\mingw\include\winsvc.h:
+
+c:\mingw\include\cderr.h:
+
+c:\mingw\include\dde.h:
+
+c:\mingw\include\ddeml.h:
+
+c:\mingw\include\dlgs.h:
+
+c:\mingw\include\imm.h:
+
+c:\mingw\include\lzexpand.h:
+
+c:\mingw\include\mmsystem.h:
+
+c:\mingw\include\nb30.h:
+
+c:\mingw\include\rpc.h:
+
+c:\mingw\include\rpcdce.h:
+
+c:\mingw\include\basetyps.h:
+
+c:\mingw\include\rpcdcep.h:
+
+c:\mingw\include\rpcnsi.h:
+
+c:\mingw\include\rpcnterr.h:
+
+c:\mingw\include\shellapi.h:
+
+c:\mingw\include\pshpack2.h:
+
+c:\mingw\include\winperf.h:
+
+c:\mingw\include\commdlg.h:
+
+c:\mingw\include\unknwn.h:
+
+c:\mingw\include\objfwd.h:
+
+c:\mingw\include\wtypes.h:
+
+c:\mingw\include\rpcndr.h:
+
+c:\mingw\include\rpcnsip.h:
+
+c:\mingw\include\prsht.h:
+
+c:\mingw\include\winspool.h:
+
+c:\mingw\include\_winsock.h:
+
+c:\mingw\include\ole2.h:
+
+c:\mingw\include\objbase.h:
+
+c:\mingw\include\objidl.h:
+
+c:\mingw\include\cguid.h:
+
+c:\mingw\include\olectlid.h:
+
+c:\mingw\include\oleauto.h:
+
+c:\mingw\include\oaidl.h:
+
+c:\mingw\include\oleidl.h:
+
+c:\mingw\include\sys\bsdtypes.h:
+
+c:\mingw\include\nspapi.h:
+
+c:\mingw\include\wtypes.h:
+
+c:\mingw\include\ws2tcpip.h:
+
+C:/msys/1.0/local/include/osip2/osip.h:
+
+C:/msys/1.0/local/include/osipparser2/osip_const.h:
+
+C:/msys/1.0/local/include/osip2/osip_time.h:
+
+C:/msys/1.0/local/include/osipparser2/osip_parser.h:
+
+C:/msys/1.0/local/include/osipparser2/osip_message.h:
+
+C:/msys/1.0/local/include/osipparser2/osip_headers.h:
+
+C:/msys/1.0/local/include/osipparser2/osip_port.h:
+
+C:/msys/1.0/local/include/osipparser2/osip_list.h:
+
+C:/msys/1.0/local/include/osipparser2/osip_uri.h:
+
+C:/msys/1.0/local/include/osipparser2/headers/osip_header.h:
+
+C:/msys/1.0/local/include/osipparser2/headers/osip_accept.h:
+
+C:/msys/1.0/local/include/osipparser2/headers/osip_content_type.h:
+
+C:/msys/1.0/local/include/osipparser2/headers/osip_accept_encoding.h:
+
+C:/msys/1.0/local/include/osipparser2/headers/osip_accept_language.h:
+
+C:/msys/1.0/local/include/osipparser2/headers/osip_alert_info.h:
+
+C:/msys/1.0/local/include/osipparser2/headers/osip_call_info.h:
+
+C:/msys/1.0/local/include/osipparser2/headers/osip_allow.h:
+
+C:/msys/1.0/local/include/osipparser2/headers/osip_content_length.h:
+
+C:/msys/1.0/local/include/osipparser2/headers/osip_authentication_info.h:
+
+C:/msys/1.0/local/include/osipparser2/headers/osip_authorization.h:
+
+C:/msys/1.0/local/include/osipparser2/headers/osip_call_id.h:
+
+C:/msys/1.0/local/include/osipparser2/headers/osip_contact.h:
+
+C:/msys/1.0/local/include/osipparser2/headers/osip_from.h:
+
+C:/msys/1.0/local/include/osipparser2/headers/osip_content_disposition.h:
+
+C:/msys/1.0/local/include/osipparser2/headers/osip_content_encoding.h:
+
+C:/msys/1.0/local/include/osipparser2/headers/osip_cseq.h:
+
+C:/msys/1.0/local/include/osipparser2/headers/osip_error_info.h:
+
+C:/msys/1.0/local/include/osipparser2/headers/osip_mime_version.h:
+
+C:/msys/1.0/local/include/osipparser2/headers/osip_proxy_authenticate.h:
+
+C:/msys/1.0/local/include/osipparser2/headers/osip_www_authenticate.h:
+
+C:/msys/1.0/local/include/osipparser2/headers/osip_proxy_authentication_info.h:
+
+C:/msys/1.0/local/include/osipparser2/headers/osip_proxy_authorization.h:
+
+C:/msys/1.0/local/include/osipparser2/headers/osip_record_route.h:
+
+C:/msys/1.0/local/include/osipparser2/headers/osip_route.h:
+
+C:/msys/1.0/local/include/osipparser2/headers/osip_to.h:
+
+C:/msys/1.0/local/include/osipparser2/headers/osip_via.h:
+
+C:/msys/1.0/local/include/osipparser2/osip_body.h:
+
+C:/msys/1.0/local/include/osip2/osip_fifo.h:
+
+C:/msys/1.0/local/include/osip2/osip_mt.h:
+
+C:/msys/1.0/local/include/osip2/osip_dialog.h:
+
+../include/eXosip2/eXosip.h:
+
+../include/eXosip2/eX_setup.h:
+
+../include/eXosip2/eX_register.h:
+
+../include/eXosip2/eX_call.h:
+
+C:/msys/1.0/local/include/osipparser2/sdp_message.h:
+
+../include/eXosip2/eX_options.h:
+
+../include/eXosip2/eX_subscribe.h:
+
+../include/eXosip2/eX_message.h:
+
+../include/eXosip2/eX_publish.h:
+
+eXtransport.h:
+
+jpipe.h:
+
+C:/msys/1.0/local/include/osip2/osip_condv.h:
