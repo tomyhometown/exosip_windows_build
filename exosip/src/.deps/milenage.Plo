@@ -1,5 +1,0 @@
-milenage.lo: milenage.c milenage.h rijndael.h
-
-milenage.h:
-
-rijndael.h:
